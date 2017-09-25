@@ -8,5 +8,4 @@
         android:state_focused="true"/>
     <item
         android:drawable="@drawable/three"/>
-
 </selector>

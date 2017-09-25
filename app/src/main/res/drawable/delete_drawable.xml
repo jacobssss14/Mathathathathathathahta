@@ -8,4 +8,5 @@
         android:state_focused="true"/>
     <item
         android:drawable="@drawable/delete"/>
+
 </selector>
