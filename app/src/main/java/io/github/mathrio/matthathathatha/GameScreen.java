@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 
 public class GameScreen extends AppCompatActivity {
 
@@ -116,10 +117,6 @@ public class GameScreen extends AppCompatActivity {
                 input1.setText(input1.getText().insert(input1.getText().length(), "9"));
             }
         });
-
-
-
-
 
     }
 }
