@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:icon="@drawable/ic_play_game"
+        android:shortcutId="shortcut1"
+        android:shortcutShortLabel="@string/shortcut1_short"
+        android:shortcutLongLabel="@string/shortcut1_long"/>
+
+    <intent
+        android:action="android.intent.action.VIEW"
+        android:targetClass="io.github.mathrio.matthathathatha.GameScreen"
+        android:targetPackage="io.github.mathrio.matthathathatha" />
+    <categories android:name="android.shortcut.conversation"/>
+
+</shortcuts>
