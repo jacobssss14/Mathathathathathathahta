@@ -5,7 +5,7 @@
         android:state_pressed="true"/>
     <item
         android:drawable="@drawable/nine_focused"
-        android:state_pressed="true"/>
+        android:state_focused="true"/>
     <item
         android:drawable="@drawable/nine"/>
 
